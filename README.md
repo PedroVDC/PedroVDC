@@ -23,6 +23,7 @@ mitigations.</div>
 <div align="center"> 
 <a href="https://shorturl.at/pARSY" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/2666/2666421.png" alt="CV" height="50" /></a> 
 </div>
+
 ## Languages and Tools  
 <div align="center">  
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
