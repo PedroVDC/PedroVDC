@@ -22,6 +22,7 @@ mitigations.</div>
 
 <br/>  
 
+<a href="https://shorturl.at/pARSY" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/2666/2666421.png" alt="CV" height="50" /></a> 
 
 ## Languages and Tools  
 <div align="center">  
