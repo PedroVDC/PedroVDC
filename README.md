@@ -1,4 +1,4 @@
-# Pedro Ferreira!  
+# Pedro Ferreira
   
 
 <a href="https://linkedin.com/in/pedfer" target="_blank">
