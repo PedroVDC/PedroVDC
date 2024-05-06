@@ -20,7 +20,7 @@ network installations, and Network Security with simulations of computer attacks
 mitigations.</div>  
   
 #### Have a look at my CV! 
-<div align="center"> <a href="https://shorturl.at/pARSY" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/2666/2666421.png" alt="CV" height="50" /></a></div>
+<a href="https://shorturl.at/pARSY" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/2666/2666421.png" alt="CV" height="50" /></a>
 
 ## Languages and Tools  
 <div align="center">  
