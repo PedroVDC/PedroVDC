@@ -1,4 +1,4 @@
-## Hey Everyone, I'm Pedro Ferreira!  
+#Pedro Ferreira!  
   
 
 <a href="https://linkedin.com/in/pedfer" target="_blank">
@@ -8,10 +8,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
-
-
-
-### A little about me!  
 <div align="left">Throughout my professional and academic career I acquired several skills such as being flexible, practical, collaborative and self-taught and I expanded my communication and customer service skills. I developed skills in Data Routing protocols, Network Services protocols in Cisco, Windows, and Linux environments, Simulations of Structured Cabling 
 network installations, and Network Security with simulations of computer attacks and their 
 mitigations.</div>  
