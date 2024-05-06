@@ -12,15 +12,15 @@
 
 
 ### A little about me!  
-<div align="center">Throughout my professional and academic career I acquired several skills such as being flexible, practical, collaborative and self-taught and I expanded my communication and customer service skills. I developed skills in Data Routing protocols, Network Services protocols in Cisco, Windows, and Linux environments, Simulations of Structured Cabling 
+<div align="left">Throughout my professional and academic career I acquired several skills such as being flexible, practical, collaborative and self-taught and I expanded my communication and customer service skills. I developed skills in Data Routing protocols, Network Services protocols in Cisco, Windows, and Linux environments, Simulations of Structured Cabling 
 network installations, and Network Security with simulations of computer attacks and their 
 mitigations.</div>  
   
 #### Have a look at my CV! 
 <a href="https://drive.proton.me/urls/AXHXK3SFT4#r9q8k6OVQWtb" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/2666/2666421.png" alt="CV" height="50" /></a>
 
-## Languages and Tools  
-<div align="center">  
+### Languages and Tools  
+<div align="left">  
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
