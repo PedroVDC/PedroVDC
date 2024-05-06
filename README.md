@@ -17,7 +17,7 @@ network installations, and Network Security with simulations of computer attacks
 mitigations.</div>  
   
 #### Have a look at my CV! 
-<a href="https://drive.proton.me/urls/AXHXK3SFT4#r9q8k6OVQWtb" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/2666/2666421.png" alt="CV" height="50" /></a>
+<a href="https://shorturl.at/nuBE9" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/2666/2666421.png" alt="CV" height="50" /></a>
 
 ### Languages and Tools  
 <div align="left">  
