@@ -1,4 +1,5 @@
 # Pedro Ferreira
+## Computer Science & Engineering student at ISEC.
   
 
 <a href="https://linkedin.com/in/pedfer" target="_blank">
@@ -8,7 +9,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
-<div align="left"> Computer Science & Engineering student at ISEC. I developed skills in Data Routing protocols, Network Services protocols in Cisco, Windows, and Linux environments, Simulations of Structured Cabling network installations, and Network Security with simulations of computer attacks and their mitigations.</div>  
+<div align="left"> I developed skills in Data Routing protocols, Network Services protocols in Cisco, Windows, and Linux environments, Simulations of Structured Cabling network installations, and Network Security with simulations of computer attacks and their mitigations.</div>  
   
 #### Have a look at my CV! 
 <a href="https://shorturl.at/nuBE9" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/2666/2666421.png" alt="CV" height="50" /></a>
