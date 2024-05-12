@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="center">Developed skills in Data Routing and Network Services protocols in Cisco, Windows, and Linux environments, Simulations of Structured Cabling network installations, and Network Security with simulations of computer attacks and their mitigations.</p>
+<p align="center">Developed skills in Data Routing and Network Services protocols in Cisco, Windows, and Linux environments, Simulations of Structured Cabling network installations, and Network Security with simulations of computer attacks and their mitigations. With a background in mechatronics, specializing in installation, maintenance, repair, and adaptation of various equipment in electrical, electronic, automatic control, robotics, and mechanical areas, ensuring optimized functionality while adhering to safety standards for personnel and equipment.</p>
 
 ###
 
